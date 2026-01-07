@@ -1,0 +1,20 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Generated data files
+*.csv
+*.json
+trends_raw.json
+fediverse_trends_*.csv
